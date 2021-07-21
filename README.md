@@ -1,4 +1,4 @@
-## Bem-vindo(a), que haja importantes aprendizado e motivação!<br> Disciplina **BANCO DE DADOS**, oferta 2021/1 - [GTestão da Informação]
+## Bem-vindo(a), que haja importantes aprendizado e motivação!<br> Disciplina **BANCO DE DADOS**, oferta 2021/1 - [Gestão da Informação]
 
 O plano da disciplina está disponível [aqui](./media/bd-2021-1-bgi-plano.pdf).<br>
 Recomendações sobre direitos autorais [aqui](./media/recomendacao-prograd.pdf).<br>
