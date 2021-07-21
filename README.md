@@ -15,5 +15,5 @@ Os momentos síncronos ocorrerão na sala [https://meet.google.com/evz-ruxg-ucm]
 1. Ao criar uma *issue*, selecione um dos *templates*: **Tópico** ou **Dúvida**.
 <br>
 <br>
-<img src="./media/austin-chan-ukzHlkoz1IE-unsplash.jpg" width="350">
+<img src="./media/nana-smirnova-IEiAmhXehwE-unsplash.jpg" width="350">
 
