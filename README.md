@@ -1,4 +1,4 @@
-## Bem-vindo(a), que haja importantes aprendizado e motivação!<br> Disciplina **BANCO DE DADOS**, oferta 2021/1 - [Gestão da Informação]
+## Bem-vindo(a), que haja importantes aprendizado e motivação!<br> Disciplina **BANCO DE DADOS**, Oferta 2021/1 - [Gestão da Informação]
 
 O plano da disciplina está disponível [aqui](./media/bd-2021-1-bgi-plano.pdf).<br>
 Recomendações sobre direitos autorais [aqui](./media/recomendacao-prograd.pdf).<br>
@@ -8,7 +8,7 @@ Os momentos síncronos ocorrerão na sala [https://meet.google.com/evz-ruxg-ucm]
 
 ### Tópicos com atividades ativas
 
-- [Tópico 01](./topico/topico-01.md) até 02/08/2021 às 23:59:59
+- [Tópico 01](./topico/topico-01.md) (Data limite: 02/08/2021 23:59:59)<br>
 
 ### Avisos ativos
 
