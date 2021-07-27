@@ -14,7 +14,8 @@ Os momentos síncronos ocorrerão na sala [https://meet.google.com/evz-ruxg-ucm]
 
 ### Avisos ativos
 
-1. Ao criar uma *issue*, selecione um dos *templates*: **Tópico** ou **Dúvida**.
+- Ao criar uma *issue*, selecione um dos *templates*: **Tópico** ou **Dúvida**.
+- Importante: O **Tópico T01** se refere à criação de um repositório **público** no **GitHub** para cada aluno.
 <br>
 <br>
 <img src="./media/mimi-thian-vdXMSiX-n6M-unsplash.jpg" width="350">
