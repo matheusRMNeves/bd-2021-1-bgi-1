@@ -20,7 +20,7 @@ Sobre o **software** que gerencia o banco de dados, alguns de seus possíveis pa
 
 ## Atividade (data limite: **02/08/2021 23h59min59s**)
 
-Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2021-1-bgi, com o título "Tópico 02", para responder as duas questões a seguir:  
+Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2021-1-bgi, com o título "Tópico 02", para responder a questão a seguir:  
 1. Sobre as seis definições sobre 'o que é banco de dados' (apresentadas no início deste tópico), analise as diferenças entre as definições, com especial atenção aos termos específicos de algumas delas, tais como 'operacionais' e 'usados'. Apresente a sua definição sobre 'o que banco de dados', tal que englobe o conteúdo das seis definições apresentadas, mas não use os termos (palavras) já presentes nas seis definições.
    
 ## Artefatos
