@@ -8,8 +8,6 @@ Os momentos síncronos ocorrerão na sala [https://meet.google.com/evz-ruxg-ucm]
 
 ### Tópicos com atividades ativas
 
-- [Tópico 01](./topicos/topico-01.md) (Data limite: 02/08/2021 23:59:59)<br>
-- [Tópico 02](./topicos/topico-02.md) (Data limite: 02/08/2021 23:59:59)<br>
 - [Tópico 03](./topicos/topico-03.md) (Data limite: 08/08/2021 23:59:59)<br>
 - [Tópico 04](./topicos/topico-04.md) (Data limite: 08/08/2021 23:59:59)<br>
 - [Tópico 05](./topicos/topico-05.md) (Data limite: 08/08/2021 23:59:59)<br>
