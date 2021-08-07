@@ -1,3 +1,4 @@
+[Tópico T08](./topico-08.md) - Modelo Relacional (MR) - Restrições de Integridade <_ôps ... ainda não disponível_><br>
 [Tópico T07](./topico-07.md) - Modelo Relacional (MR) - Primeiros passos e Checklist<br>
 [Tópico T06](./topico-06.md) - Requisitos de Dados<br>
 [Tópico T05](./topico-05.md) - Modelo de Dados<br>
