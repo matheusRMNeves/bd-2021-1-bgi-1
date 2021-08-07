@@ -42,7 +42,7 @@ Outro exemplo de requisitos de dados é apresentado [aqui](../media/bd-01-locado
 
 Observe que esses requisitos de dados incluem um conjunto de demandas informacionais, que são apresentadas na forma de **consultas** e são organizadas pelo **perfil do usuário**.
 
-## Atividade (data limite: **xx/xx/xxxx 23h59min59s**)
+## Atividade (data limite: **15/08/2021 23h59min59s**)
 
 Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2021-1-bgi, com o título "Tópico 06", para responder conforme a seguir:  
 1. Leia e releia os requisitos de dados pertinentes ao **BD Empresa**. Identifique 05 (cinco) pontos de imprecisão nos requisitos, conforme o exemplo abaixo.<br>
