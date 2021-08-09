@@ -9,7 +9,7 @@ Há problemas no mundo real cuja solução pode ser alcançada por meio de **sof
 
 Independente da classificação de requisitos – se o requisito é funcional ou não-funcional, a prioridade do requisito, etc. – há os **requisitos de dados**, que é uma das partes de todo o conjunto de requisitos de software. Então, os requisitos de dados são os requisitos considerados para o projeto de banco de dados. Veja a Figura 7.1 no Capítulo 7 da 6a. edição do livro [1], para uma ilustração de contexto dos requisitos de dados.
 
-> O projeto de banco de dados deve ser tal que contribua para a efetividade do produto de software.<br>
+> O esquema de banco de dados deve ser tal que contribua para a efetividade do produto de software.<br>
 > Questão 02: O que é **projeto de banco de dados**?
 
 **Por que coletar requisitos de dados?**<br>
