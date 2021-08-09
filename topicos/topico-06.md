@@ -16,8 +16,8 @@ Independente da classificação de requisitos – se o requisito é funcional ou
 Nostras palavras, como saber qual o [esquema de] banco de dados *certo* para o software?<br>
 Uma resposta simples é que **bancos de dados são projetados** a partir dos requisitos de dados, pois tais requisitos retratam as necessidades e restrições próprias para o banco de dados do software. Nesse sentido, bancos de dados são usualmente projetados com o uso de **modelos de dados**, os quais apoiam a **representação** da estrutura e restrições da base de dados em algum **nível de abstração** - desde a visão conceitual dos dados (alto-nível) até a percepção dos dados armazenados (baixo-nível).
 
-> Questão 03:  Que **projeto de banco de dados** atende aos **requisitos de dados**?<br>
-> Questão 03a: Pode haver **mais de um** projeto de banco de dados que atende aos requisitos de dados?
+> Questão 03:  Que **esquema de banco de dados** atende aos **requisitos de dados**?<br>
+> Questão 03a: Pode haver **mais de um** esquema de banco de dados que atende aos requisitos de dados?
 
 ### Requisitos de Dados - BD Empresa
 
