@@ -5,7 +5,7 @@ Há problemas no mundo real cuja solução pode ser alcançada por meio de **sof
 
 > O banco de dados é parte integrante de um produto de software.<br>
 > Questão 01:  Qual o banco de dados que atende aos **requisitos de software**?<br>
-> Questão 01a: Sendo mais preciso, que **projeto de banco de dados** atende aos **requisitos de software**?
+> Questão 01a: Sendo mais preciso, que **esquema de banco de dados** atende aos **requisitos de software**?
 
 Independente da classificação de requisitos – se o requisito é funcional ou não-funcional, a prioridade do requisito, etc. – há os **requisitos de dados**, que é uma das partes de todo o conjunto de requisitos de software. Então, os requisitos de dados são os requisitos considerados para o projeto de banco de dados. Veja a Figura 7.1 no Capítulo 7 da 6a. edição do livro [1], para uma ilustração de contexto dos requisitos de dados.
 
