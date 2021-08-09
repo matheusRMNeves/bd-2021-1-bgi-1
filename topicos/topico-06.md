@@ -1,7 +1,7 @@
 ## [Tópico T06] - Requisitos de Dados
 ###### *by Prof. Plinio Sa Leitao-Junior (INF/UFG)*
 
-Há problemas no mundo real cuja solução pode ser alcançada por meio de **software**. As necessidades e restrições colocadas em um produto de software são representadas pela especificação de **requisitos de software**. Então, a análise, elicitação e especificação de requisitos é uma das etapas do **processo de software**. Requisitos de Software podem ser expressos em **artefatos**, cuja construção em geral aplica **modelos** e emprega **notações** tal como a UML, com o apoio de **ferramentas** na escrita desses artefatos.
+Há problemas no mundo real cuja solução pode ser alcançada por meio de **software**. As necessidades e restrições colocadas em um produto de software são representadas pela especificação de **requisitos de software**. Então, a análise, a elicitação e a especificação de requisitos são etapas do **processo de software**. Requisitos de Software podem ser expressos em **artefatos**, cuja construção em geral aplica **modelos** e emprega **notações** tal como a UML, com o apoio de **ferramentas** na escrita desses artefatos.
 
 > O banco de dados é parte integrante de um produto de software.<br>
 > Questão 01:  Qual o banco de dados que atende aos **requisitos de software**?<br>
