@@ -12,11 +12,13 @@ Os momentos síncronos ocorrerão na sala [https://meet.google.com/evz-ruxg-ucm]
 
 - [Tópico 08](./topicos/topico-08.md) (Data limite: 22/08/2021 23:59:59)<br>
 - [Tópico 09](./topicos/topico-09.md) (Data limite: 22/08/2021 23:59:59)<br>
+- [Tópico 10](./topicos/topico-10.md) (Data limite: 29/08/2021 23:59:59)<br>
+- [Tópico 11](./topicos/topico-11.md) (Data limite: 29/08/2021 23:59:59)<br>
 - [Todos os tópicos](topicos/topicos.md)
 
 ### Avisos ativos
 
-- Ao criar uma *issue*, selecione um dos *templates*: **Tópico** ou **Dúvida**.
+- O Simpósio Brasileiro de Banco de Dados, edição 2021, está próximo: [SBBD](https://sbbd.org.br/2021/)
 - Importante: O **Tópico T01** se refere à criação de um repositório **público** no **GitHub** para cada aluno.
 <br>
 <br>
