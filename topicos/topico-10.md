@@ -13,9 +13,9 @@ A Operação PRODUTO CARTESIANO é usada para a combinação (concatenação) de
 
 #### PRODUTO CARTESIANO Exemplo 1:
 Observe o resultado da expressão **PRODUTO × CATEGORIA** na figura abaixo:
-- PRODUCT tem 04 atributos e CATEGORIA tem 02 atritbutos:
+- PRODUTO tem 04 atributos e CATEGORIA tem 02 atritbutos:
   - PRODUTO × CATEGORIA tem 06 atributos.
-- PRODUCT tem 05 _tuplas_ e CATEGORIA tem 02 _tuplas_:
+- PRODUTO tem 05 _tuplas_ e CATEGORIA tem 02 _tuplas_:
   - PRODUTO × CATEGORIA tem 10 _tuplas_.
 
 <img src="../media/fig-algebra-produto-cartesiano.jpg" width="400">
